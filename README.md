@@ -19,3 +19,31 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 추가설치 라이브러리
+- bulma
+- node-sass
+- sass-loader
+- style-loader
+- font-awesome
+
+## Dependencies
+``` sh
+npm i -S bulma
+
+npm i -D node-sass sass-loader style-loader
+
+npm i -S axios
+```
+
+## import bulma sass
+``` css
+@import '../node_modules/bulma/bulma.sass'
+```
+
+## Link to CDN
+``` html
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+```
+
+
