@@ -28,7 +28,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 - font-awesome
 
 ## dependencies
-``` bash
+``` sh
 npm i -S bulma
 
 npm i -D node-sass sass-loader style-loader
@@ -37,7 +37,7 @@ npm i -S axios
 ```
 
 ## Link to CDN
-```html
+``` html
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 ```
 
