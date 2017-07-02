@@ -27,7 +27,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 - style-loader
 - font-awesome
 
-## dependencies
+## Dependencies
 ``` sh
 npm i -S bulma
 
