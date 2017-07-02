@@ -36,6 +36,11 @@ npm i -D node-sass sass-loader style-loader
 npm i -S axios
 ```
 
+## import bulma sass
+``` css
+@import '../node_modules/bulma/bulma.sass'
+```
+
 ## Link to CDN
 ``` html
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
